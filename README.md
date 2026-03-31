@@ -15,6 +15,17 @@ This project uses computer vision and hand tracking to control a 3D model in rea
 - Panda3D
 
 ## How to Run
-pip install -r requirements.txt
 
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the project:
+```bash
 python main.py
+```
+
+## Notes
+- This repository contains a cleaned GitHub-ready version of the project.
+- You can improve it further later by adding screenshots, a demo video, or more setup details.
