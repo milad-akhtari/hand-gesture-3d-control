@@ -1,3 +1,6 @@
+## Demo
+
+![Demo Video](./demo.mp4)
 # Hand Gesture 3D Control System
 
 This project uses computer vision and hand tracking to control a 3D model in real time.
