@@ -16,4 +16,5 @@ This project uses computer vision and hand tracking to control a 3D model in rea
 
 ## How to Run
 pip install -r requirements.txt
+
 python main.py
