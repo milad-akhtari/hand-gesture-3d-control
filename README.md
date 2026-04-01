@@ -2,6 +2,8 @@
 
 👉 Control a 3D model using hand gestures in real-time
 
+[Watch demo video](./demo.mp4)
+
 <video src="demo.mp4" controls width="600"></video>
 # Hand Gesture 3D Control System
 
